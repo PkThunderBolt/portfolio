@@ -4,15 +4,15 @@ import ProjectCard from './ProjectCards'
 import Particle from '../Particle'
 
 import eCom from '../../Assets/Projects/Flipkartgrid.png'
-import jsomBlog from '../../Assets/Projects/Canva 500 Design.png'
-import taskify from '../../Assets/Projects/SIH-winner.png'
-import aA from '../../Assets/Projects/C CERTIFICATE.png'
+import jsomBlog from '../../Assets/Projects/Canva 500 Design.webp'
+import taskify from '../../Assets/Projects/SIH-winner.webp'
+import aA from '../../Assets/Projects/C CERTIFICATE.webp'
 import easyCode from '../../Assets/Projects/NICE 22.png'
-import tech from '../../Assets/Projects/techX talk.png'
-import nukkad from '../../Assets/Projects/Nukkad natak.png'
-import rep from '../../Assets/Projects/Republica.png'
+import tech from '../../Assets/Projects/techX talk.webp'
+import nukkad from '../../Assets/Projects/Nukkad natak.webp'
+import rep from '../../Assets/Projects/Republica.webp'
 import go from '../../Assets/Projects/Google cloud Prashant Kumar (1).png'
-import py from '../../Assets/Projects/python Prashant Kumarcertificate.png'
+import py from '../../Assets/Projects/python Prashant Kumarcertificate.webp'
 
 function Achievements() {
   return (

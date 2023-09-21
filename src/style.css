@@ -254,7 +254,7 @@ html {
 .home-section {
   position: relative;
   z-index: -1;
-  background-image: var(--image-gradient), url(./Assets/home1.png);
+  background-image: var(--image-gradient), url(./Assets/home.webp);
   background-position: center center;
   background-repeat: repeat;
   padding-bottom: 30px !important;

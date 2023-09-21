@@ -2,8 +2,8 @@ import React from 'react'
 import {Container, Row, Col} from 'react-bootstrap'
 import ProjectCard from './ProjectCards'
 import Particle from '../Particle'
-import port from '../../Assets/Projects/portfolio.png'
-import sih from '../../Assets/Projects/SIH.png'
+import port from '../../Assets/Projects/portfolio.webp'
+import sih from '../../Assets/Projects/SIH.webp'
 import medi from '../../Assets/Projects/medihelp.png'
 
 function Projects() {
@@ -47,7 +47,7 @@ function Projects() {
               title="Portfolio"
               description="It is a basic e-commerce site which build in MERN tech stack. It has a features like login, signup as a part of authentication. Apart from that user add product in cart, modify quantity and also remove poduct in cart. It is a basic e-comerce site which build in pure html, css, reactjs and redux. You can watch live app in below button."
               link="#"
-              liveLink="#"
+              liveLink="https://pkprashant.vercel.app/"
             />
           </Col>
 
