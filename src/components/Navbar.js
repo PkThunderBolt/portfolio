@@ -39,7 +39,7 @@ function NavBar() {
         <Navbar.Brand as={Link} to="/">
           <p
             style={{
-              color: '#be50f4',
+              color: 'white',
               margin: 'auto',
               fontWeight: '700',
               letterSpacing: '1px',

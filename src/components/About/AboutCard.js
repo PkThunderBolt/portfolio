@@ -10,9 +10,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Prashant Kumar </span>
             from <span className="purple">  Gaya, Bihar India.</span> 
             <br/>
-            <br />&diams;  I am 3rd Year undergraduate student pursuing a Bachelor of Technology in Computer Science and Engineering at <span className="purple">Bakhtiyarpur College of Engineering, Patna. 🎓 </span> 
+            <br />&diams;  I am final Year undergraduate student pursuing a Bachelor of Technology in Computer Science and Engineering at <span className="purple">Bakhtiyarpur College of Engineering, Patna. 🎓 </span> I am honored to have won the <span className="purple">Smart India Hackathon</span> twice, in both 2022 and 2023.
             <br />
-            <br />&diams; I am proficient in HTML, CSS, js & C++ Language and has a keen interest in UI/UX development, animation, and graphic design. 🌈
+            <br />&diams; I am proficient in Graphic Designing and Wire Framing using Canva and Figma..
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

@@ -19,7 +19,29 @@ function Resume() {
         </Row>
         <Row className="resume">
           <Col md={6} className="resume-left">
-            <h3 className="resume-title">Experience</h3>
+            <h3 className="resume-title">WORK EXPERIENCE</h3>
+            <Resumecontent
+              title="Greenbhumi an initiative by toptrove foundation
+              Graphic Designer intern             "
+              date=" Present"
+              content={[
+                'A project aims to promote planting trees through graphic designing posters and banners',
+              ]}
+            />
+            <Resumecontent
+              title="North Bihar Power Distribution Co. Ltd.  Database Admin. Trainee              "
+              date=" Jan, 2023 - Mar, 2023"
+              content={[
+                'Project:- Electricity Bill management system using HTML, CSS and SQL',
+              ]}
+            />
+            <Resumecontent
+              title="Suven Consultants and Technology Pvt.Ltd.               "
+              date=" May, 2022 - Jun, 2022"
+              content={[
+                'Completed an intensive 4-week internship at Suven Consultants & Technology Pvt Ltd, gaining hands-on experience in front-end web development using Bootstrap framework.',
+              ]}
+            />
             <Resumecontent
               title="Training & Placement Cell Student COORDINATOR              "
               date=" 2023 - present"
@@ -28,36 +50,10 @@ function Resume() {
               ]}
             />
             <Resumecontent
-              title="Google Cloud Facilitator & Creative and Outreach Lead              "
-              date="July 2022 - April 2023"
+              title="Google Cloud Facilitator              "
+              date="Nov 2022 - Jan 2023"
               content={[
                 '@ GDSC BCE Patna                ',
-
-              ]}
-            />
-            <Resumecontent
-              title="SIH WINNER         "
-              date="August 2022"
-              content={[
-                'Conducted by Government Of India & Ministry of Education              ',
-                'Futter based Application under Ministry of Social Justice & Empowerment        ',
-
-              ]}
-            />
-            <Resumecontent
-              title="Fluxmation & Natyaksh CLUB COORDINATOR   "
-              
-              content={[
-                'Fluxmation is an official Designing & Branding club of our College ',
-                'Natyaksh is an official Art and Cultural Club of our college ',
-
-              ]}
-            />
-            <Resumecontent
-              title="Creating 500 designs in canva  "
-              
-              content={[
-                '@Canva ',
 
               ]}
             />
@@ -69,37 +65,46 @@ function Resume() {
 
               ]}
             />
-            <h3 className="resume-title">Extracurricular Activities</h3>
+            <h3 className="resume-title">LEADERSHIP ROLES</h3>
             <Resumecontent
               title="Natyaksh CLUB COORDINATOR"
-              date=" 2022"
+              date=" Present"
               content={[
                 'Natyaksh is an official Art and Cultural Club of Bakhtiyarpur college of Engineering ',
               ]}
             />
             <Resumecontent
               title="Fluxmation CLUB COORDINATOR "
-              date="2022"
+              date="Present"
               content={[
                 'Fluxmation is an official Designing & Branding club of Bakhtiyarpur college of Engineering.',
               ]}
             />
+            <Resumecontent
+              title="Creative and Outreach Lead "
+              date="July 2022 - April 2023"
+              content={[
+                '@GDSC BCE Patna.',
+              ]}
+            />
           </Col>
           <Col md={6} className="resume-right">
-            <h3 className="resume-title">Education</h3>
+            <h3 className="resume-title">EDUCATION</h3>
             <Resumecontent
               title="BACHELOR OF TECHNOLOGY "
               date="2020 - 2024"
               content={[
                 `B.Tech in Computer Science & Engineering `,
-                'I am parsung my bachelor degree fron Bakhtiyarpur College of Engineering, Patna.',
+                'I am parsung my bachelor degree from Bakhtiyarpur College of Engineering, Patna.',
+                '(GPA : 7.8)',
               ]}
             />
             <Resumecontent
               title="INTERMEDIATE "
               date="2018 - 2020"
               content={[
-                'From Gulabchand +2 High School Govindpur bairka, gaya',
+                'From Gulabchand +2 High School Govindpur bairka, gaya ',
+                ' (Grade - 73%)',
               ]}
             />
             <Resumecontent
@@ -107,15 +112,22 @@ function Resume() {
               "
               date="2017"
               content={[
-                'From Hansraj Public School Kharanti, BodhGaya',
+                'From Hansraj Public School Kharanti, BodhGaya ',
+                '(CGPA : 9.0)',
               ]}
             />
 
 
 
-            <h3 className="resume-title"> Achivements</h3>
+            <h3 className="resume-title"> ACHIEVEMENTS</h3>
             <Resumecontent
-              title="SIH WINNER (08/2022)"
+              title="SIH WINNER, 23 (12/2023)"
+              content={[
+                `Smart India Hackathon Conducted by the GOI & MoE. Worked under Ministry of Textiles`,
+              ]}
+            />
+            <Resumecontent
+              title="SIH WINNER, 22 (08/2022)"
               content={[
                 `Smart India Hackathon Conducted by the GOI & MoE. Worked under Ministry of Social Empowerment & Justice`,
               ]}
@@ -125,6 +137,12 @@ function Resume() {
               content={[
                 `Conducted by AICTE & UGC with the support of EXTRA-C`,
                 `Qualified for the East Zonal Finals organised by AICTE & UGC`,
+              ]}
+            />
+            <Resumecontent
+              title="Flipkart GRID 5.0     "
+              content={[
+                `Cleared Level 1: E-Commerce & Tech Quiz of the Flipkart GRiD 5.0 - Information Security Challenge organised by the Flipkart`,               
               ]}
             />
           </Col>

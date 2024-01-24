@@ -24,12 +24,12 @@ function Home2() {
               
               I am a passionate software engineer with a strong interest in 
               <i>
-                <b className="purple"> &nbsp; Web technologies, Application development, and Graphic design. </b>
+                <b className="purple"> &nbsp; Web technologies, and Graphic design. </b>
               </i>
               <br />
               <br />I am fluent in a variety of programming languages and technologies, including
               <i>
-                <b className="purple"> &nbsp;&nbsp; C, C++, HTML, CSS, Javascript, Python, Canva, Node.js and React.js. </b>
+                <b className="purple"> &nbsp;&nbsp; C, C++, HTML, CSS, Javascript </b> and I am familar with <b className="purple"> &nbsp; Java, Python, NodeJs, ReactJs.</b>
               </i>
               <br />
               <br />
