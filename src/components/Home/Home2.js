@@ -29,7 +29,7 @@ function Home2() {
               <br />
               <br />I am fluent in a variety of programming languages and technologies, including
               <i>
-                <b className="purple"> &nbsp;&nbsp; C, C++, HTML, CSS, Javascript </b> and I am familar with <b className="purple"> &nbsp; Java, Python, NodeJs, ReactJs.</b>
+                <b className="purple"> &nbsp;&nbsp; C, C++, SQL, HTML, CSS, Javascript </b> and I am familar with <b className="purple"> &nbsp; Java, Python.</b>
               </i>
               <br />
               <br />

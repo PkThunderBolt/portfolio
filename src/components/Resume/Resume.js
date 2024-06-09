@@ -21,15 +21,15 @@ function Resume() {
           <Col md={6} className="resume-left">
             <h3 className="resume-title">WORK EXPERIENCE</h3>
             <Resumecontent
-              title="Greenbhumi an initiative by toptrove foundation
-              Graphic Designer intern             "
-              date=" Present"
+              title="Greenbhumi an initiative by toptrove foundation.
+                          ( Graphic Designer intern)             "
+              date=" Dec, 2023 - Mar, 2024"
               content={[
                 'A project aims to promote planting trees through graphic designing posters and banners',
               ]}
             />
             <Resumecontent
-              title="North Bihar Power Distribution Co. Ltd.  Database Admin. Trainee              "
+              title="North Bihar Power Distribution Co. Ltd.  ( Database Admin. Trainee)              "
               date=" Jan, 2023 - Mar, 2023"
               content={[
                 'Project:- Electricity Bill management system using HTML, CSS and SQL',
